@@ -1,0 +1,2 @@
+gcc Adivinhacao.c -o Adivinhacao.out
+gcc Adivinhacao.c -std=c99 -o Adivinhacao.out
