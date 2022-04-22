@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Layout>
 	<Files>
-		<File Name="main.cpp" Top="Yes" Tabpos="1" TopLine="1">
-			<Cursor Line="43" Column="2"/>
+		<File Name="main.cpp" Top="Yes" Tabpos="1" TopLine="33">
+			<Cursor Line="72" Column="12"/>
+		</File>
+		<File Name="teste.cpp" Top="No" Tabpos="2" TopLine="1">
+			<Cursor Line="3" Column="20"/>
 		</File>
 	</Files>
 </Layout>
